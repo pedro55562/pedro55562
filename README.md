@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pedro55562
-- 🌱 I’m currently learning C++
+- 👋 Hello there! I’m @pedro55562
+- 🌱 I’m currently pursuing a degree in Control and Automation Engineering at UFMG (Universidade Federal de Minas Gerais).This repository serves as a platform for sharing my coding journey and projects related to my studies.
 - 📫 pedro.souza.campos.rodrigues@gmail.com
