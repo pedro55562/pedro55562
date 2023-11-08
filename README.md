@@ -3,7 +3,7 @@
 ## Introduction
 
 - 👋 Hello there! I’m @pedro55562.
-- 🎓 I'm currently pursuing a degree in Control Engineering at UFMG (Universidade Federal de Minas Gerais).
+- 🎓 I'm currently pursuing a degree in Engineering at UFMG (Universidade Federal de Minas Gerais).
    This repository serves as a platform for sharing my coding journey and projects.
 -  🚀 Fun fact: I'm a huge fan of Star Wars.
 - 📫 Feel free to reach me at [pedro.souza.campos.rodrigues@gmail.com](mailto:pedro.souza.campos.rodrigues@gmail.com).
